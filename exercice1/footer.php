@@ -1,3 +1,3 @@
 <footer>
-    <p> @tosDigitalAcademy 2023</p>
+    <p> @chille kouassi 2023</p>
 </footer>
