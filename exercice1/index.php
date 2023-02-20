@@ -8,10 +8,9 @@
 </head>
 <body>
 
-<h1>BIENVENUE SUR MA PAGE ADACI</h1>
+<h2>Bienvenue sur mon profil </h2>
 
 <?php
-// appel des differents fichiers  dans le fichier indexin
 include ('header.php');
 
 include ('footer.php');
